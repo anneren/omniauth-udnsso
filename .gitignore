@@ -3,6 +3,9 @@
 .bundle
 .config
 .yardoc
+.project
+.rspec
+.loadpath
 Gemfile.lock
 InstalledFiles
 _yardoc
